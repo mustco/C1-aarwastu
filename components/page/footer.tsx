@@ -81,7 +81,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 border-t border-gray-800 pt-8 text-center text-gray-400">
-          <p>&copy; 2024 AARWASTU. All rights reserved.</p>
+          <p>&copy; 2025 AARWASTU. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -6,4 +6,4 @@ Repository ini berisi kode sumber untuk website resmi studio arsitektur AARWASTU
 
 ---
 
-&copy; 2024 AARWASTU. All rights reserved.
+&copy; 2025 AARWASTU. All rights reserved.
